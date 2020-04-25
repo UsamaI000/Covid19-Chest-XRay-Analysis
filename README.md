@@ -18,7 +18,9 @@
    • Second task was to perform experiments on both models with CNN and FCN both unfreeze and also, CNN partially freeze.
    
    • The FCN part of the both networks were altered according to given assignment. The problem was binary so output layer had to be           changed. Also, the number of neuron in hidden layers were also changed.
+       
        o (Last 2 digits of roll no x 10) + 100
+       
        o Size of layer was 180
    
    • Learning rates used were 0.001, 0.0001, and 0.00001.
