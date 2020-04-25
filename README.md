@@ -36,11 +36,11 @@
    
    ![](images/task1%20best.png) 
    
-   ![](images/task1%20train%20acc.png)
+  ![](images/task1%20train%20acc.png)
 
    ### Task 2
    The best performance on Task 2 that I got is
    
    ![](images/task2%20best.png) 
    
-   ![](images/task2%20train%20acc.png)
+  ![](images/task2%20train%20acc.png)
