@@ -7,6 +7,11 @@ Link: https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447v
 ## Results:
 
 ### Task 1
+The best performance on Task 1 that I got is
+
 ![](images/task1%20best.png)
+
 ### Task 2
+The best performance on Task 2 that I got is
+
 ![](images/task2%20best.png)
