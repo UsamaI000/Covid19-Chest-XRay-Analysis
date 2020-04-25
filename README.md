@@ -7,4 +7,6 @@ Link: https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447v
 ## Results:
 
 ### Task 1
+Best performance
+![vgg16_test_acc_2](https://user-images.githubusercontent.com/45894162/80277143-7b83a500-8706-11ea-8b13-f3f492c4a4ce.png)
 
