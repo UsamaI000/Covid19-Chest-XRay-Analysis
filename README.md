@@ -4,6 +4,10 @@
 ## Dataset: 
 Link: https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR?authuser=1
 
+## Model used:
+    1) Vgg 16
+    2) Resnet 18
+
 ## Results:
 
 ### Task 1
