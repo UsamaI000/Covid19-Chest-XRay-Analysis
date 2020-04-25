@@ -3,6 +3,9 @@
 
 ## Dataset: 
    Link: https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR?authuser=1
+   
+## Tuned model:
+   Link: https://drive.google.com/open?id=1FLE3OeKp4ltOFiJW82-gAdTiddsn-7j2
 
 ## Model used:
    1) Vgg 16
