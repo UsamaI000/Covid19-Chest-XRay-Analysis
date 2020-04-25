@@ -7,5 +7,6 @@ Link: https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447v
 ## Results:
 
 ### Task 1
-
 ![](images/task1%20best.png)
+### Task 2
+![](images/task2%20best.png)
