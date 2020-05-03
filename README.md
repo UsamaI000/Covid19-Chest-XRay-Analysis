@@ -93,8 +93,8 @@
    
    #### Resnet
    ![](images/without_focal_resnet_loss.png) ![](images/without_focal_resnet_acc.png) 
-   ![](images/without_focal_renset_train_cm.png) ![](images/without_focal_renset_valid_cm.png) 
-   ![](images/without_focal_renset_train.png) 
+   ![](images/without_focal_resnet_train_cm.png) ![](images/without_focal_resnet_valid_cm.png) 
+   ![](images/without_focal_resnet_train.png) 
    
    ### With Focal Loss
    
