@@ -36,14 +36,14 @@
 
 ## Results:
 
-   ### Task 1
+   ### -----> Task 1
    The best performance on Task 1 that I got is
    
    ![](images/task1%20best.png) 
    
   ![](images/task1%20train%20acc.png)
 
-   ### Task 2
+   ### -----> Task 2
    The best performance on Task 2 that I got is
    
    ![](images/task2%20best.png) 
@@ -86,24 +86,25 @@
 ## Results:
    ### Without Focal Loss
    
-   #### VGG
+   #### -----> VGG
    ![](images/without_focal_vgg_loss.png) ![](images/without_focal_vgg_acc.png) 
    ![](images/without_focal_vgg_train_cm.png)  ![](images/without_focal_vgg_valid_cm.png) 
    ![](images/without_focal_vgg_train.png) 
    
-   #### Resnet
+   #### -----> Resnet
    ![](images/without_focal_resnet_loss.png) ![](images/without_focal_resnet_acc.png) 
    ![](images/without_focal_resnet_train_cm.png) ![](images/without_focal_resnet_valid_cm.png) 
    ![](images/without_focal_resnet_train.png) 
    
+   
    ### With Focal Loss
    
-   #### VGG
+   #### -----> VGG
    ![](images/with_focal_vgg_loss_1.png) ![](images/with_focal_vgg_acc_1.png) 
    ![](images/with_focal_vgg_train_cm.png)  ![](images/with_focal_vgg_valid_cm.png) 
    ![](images/with_focal_vgg_train.png)
    
-   #### Resnet
+   #### -----> Resnet
    ![](images/with_focal_resnet_loss.png) ![](images/with_focal_resnet_acc.png) 
    ![](images/with_focal_resnet_train_cm.png) ![](images/with_focal_resnet_valid_cm.png) 
    ![](images/with_focal_resnet_train.png) 
