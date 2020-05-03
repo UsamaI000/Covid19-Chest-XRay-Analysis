@@ -43,6 +43,7 @@
    
   ![](images/task1%20train%20acc.png)
 
+
    ### -----> Task 2
    The best performance on Task 2 that I got is
    
@@ -86,10 +87,12 @@
 ## Results:
    ### Without Focal Loss
    
+   
    #### -----> VGG
    ![](images/without_focal_vgg_loss.png) ![](images/without_focal_vgg_acc.png) 
    ![](images/without_focal_vgg_train_cm.png)  ![](images/without_focal_vgg_valid_cm.png) 
    ![](images/without_focal_vgg_train.png) 
+   
    
    #### -----> Resnet
    ![](images/without_focal_resnet_loss.png) ![](images/without_focal_resnet_acc.png) 
@@ -99,10 +102,12 @@
    
    ### With Focal Loss
    
+   
    #### -----> VGG
    ![](images/with_focal_vgg_loss_1.png) ![](images/with_focal_vgg_acc_1.png) 
    ![](images/with_focal_vgg_train_cm.png)  ![](images/with_focal_vgg_valid_cm.png) 
    ![](images/with_focal_vgg_train.png)
+   
    
    #### -----> Resnet
    ![](images/with_focal_resnet_loss.png) ![](images/with_focal_resnet_acc.png) 
