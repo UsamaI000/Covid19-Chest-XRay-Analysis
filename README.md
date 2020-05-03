@@ -98,5 +98,9 @@
    
    ### With Focal Loss
    
+   #### VGG
+   ![](images/with_focal_vgg_loss_1.png) ![](images/with_focal_vgg_acc_1.png) 
+   ![](images/with_focal_vgg_train_cm.png)  ![](images/with_focal_vgg_valid_cm.png) 
+   ![](images/with_focal_vgg_train.png)
    
    
