@@ -50,7 +50,7 @@
    
   ![](images/task2%20train%20acc.png)
   
-## ----------------------------------Part 2----------------------------------------
+## ----------------------------------Part 2: With Focal Loss (Multi-label)----------------------------------------
 
 ## Dataset: 
    Link: https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view
