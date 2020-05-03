@@ -92,7 +92,7 @@
    ![](images/without_focal_vgg_train.png) 
    
    #### Resnet
-   ![](images/without_focal_renset_loss.png) ![](images/without_focal_renset_acc.png) 
+   ![](images/without_focal_resnet_loss.png) ![](images/without_focal_resnet_acc.png) 
    ![](images/without_focal_renset_train_cm.png) ![](images/without_focal_renset_valid_cm.png) 
    ![](images/without_focal_renset_train.png) 
    
