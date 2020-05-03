@@ -85,3 +85,9 @@
 
 ## Results:
    ### Without Focal Loss
+   
+   #### VGG
+   ![](images/without_focal_vgg_loss.png) ![](images/without_focal_vgg_acc.png) 
+   ![](images/without_focal_vgg_train_cm.png)  ![](images/without_focal_vgg_valid_cm.png) 
+   ![](images/without_focal_vgg_train.png) 
+   
