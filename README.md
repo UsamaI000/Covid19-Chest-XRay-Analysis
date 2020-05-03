@@ -50,7 +50,7 @@
    
   ![](images/task2%20train%20acc.png)
   
-## ------------------------------Part 2: With Focal Loss (Multi-label)------------------------------------
+## ------------------------Part 2: With Focal Loss (Multi-label)----------------------------
 
 ## Dataset: 
    Link: https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view
@@ -90,4 +90,13 @@
    ![](images/without_focal_vgg_loss.png) ![](images/without_focal_vgg_acc.png) 
    ![](images/without_focal_vgg_train_cm.png)  ![](images/without_focal_vgg_valid_cm.png) 
    ![](images/without_focal_vgg_train.png) 
+   
+   #### Resnet
+   ![](images/without_focal_renset_loss.png) ![](images/without_focal_renset_acc.png) 
+   ![](images/without_focal_renset_train_cm.png)  ![](images/without_focal_renset_valid_cm.png) 
+   ![](images/without_focal_renset_train.png) 
+   
+   ### With Focal Loss
+   
+   
    
