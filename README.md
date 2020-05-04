@@ -111,5 +111,5 @@
    
    #### -----> Resnet
    ![](images/with_focal_resnet_loss.png) ![](images/with_focal_resnet_acc.png) 
-   ![](images/with_focal_resnet_train_cm.png) ![](images/with_focal_resnet_valid_cm.png) 
+   ![](images/best_acc.png) ![](images/best_loss.png) 
    ![](images/with_focal_resnet_train.png) 
