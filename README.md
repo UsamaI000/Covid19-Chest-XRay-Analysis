@@ -1,6 +1,6 @@
 # Detecting Coronavirus Infections through Chest X-Ray images
 
-## ------------------------ Part 1 (Pneumunia detection chest X-ray) -----------------------------
+## ----------------- Part 1 (Pneumunia detection chest X-ray) -----------------------
 
 ## Dataset: 
    Link: https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR?authuser=1
